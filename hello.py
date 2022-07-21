@@ -4,6 +4,6 @@ print("hello")
 # Let's create a variable called name and a variable called age
 
 name = "Bianca"
-age = 42
+age = 40
 print("Name:", name)
 print("Age:", age)
